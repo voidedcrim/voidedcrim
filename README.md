@@ -8,7 +8,7 @@ i build small, purposeful things on the web. this is the readme; the [site](http
 
 ## what i work with
 
-python and javascript are what i reach for most. i also write luau for roblox projects, and enough html/css to put a page together from scratch. beyond that i can get by in a handful of other languages — not deep expertise, but enough to read the code and make useful changes.
+i mainly reach for python and javascript. i'm in touch w/ luau for roblox projects and i know enough html/css to put a website together. i'm into some other languages, just enough to understand and edit the code in useful ways.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -20,7 +20,7 @@ python and javascript are what i reach for most. i also write luau for roblox pr
 
 ## stranded.cc
 
-[stranded.cc](https://stranded.cc) is my personal site — a biolink built from scratch with Vite and TypeScript, no framework.
+[stranded.cc](https://stranded.cc) is my personal site, a biolink built w/ Vite and TypeScript, no framework. you can find my projects and other things about me there.
 
 ## elsewhere
 
