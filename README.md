@@ -20,7 +20,7 @@ python and javascript are what i reach for most. i also write luau for roblox pr
 
 ## stranded.cc
 
-[stranded.cc](https://stranded.cc) is my personal site and the one project I'll actually point people to — a biolink built from scratch with Vite and TypeScript, no framework underneath. It pulls in live Discord presence, shows what I'm currently listening to on Spotify along with monthly top tracks and artists, and quietly tracks visitors with a Telegram ping when someone new shows up. Dark, monochrome, built the way I wanted it rather than templated off something else.
+[stranded.cc](https://stranded.cc) is my personal site — a biolink built from scratch with Vite and TypeScript, no framework. Live Discord presence, live Spotify now-playing, dark and monochrome.
 
 ## elsewhere
 
